@@ -1,0 +1,24 @@
+{
+  "name": "learning_classes_es2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitverma2211/learning_classes_es6_ways.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitverma2211/learning_classes_es6_ways/issues"
+  },
+  "homepage": "https://github.com/ankitverma2211/learning_classes_es6_ways#readme",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "traceur": "0.0.111"
+  }
+}
